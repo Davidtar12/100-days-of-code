@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 3rd, 2017
-##### (delete me or comment me out)
 
 **Today's Progress**: Learnt a bit of Javascript at Codecademy, mainly basic knowledge on the while do/while loops. Then I created a FCC account and honed it a little
 
