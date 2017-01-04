@@ -7,10 +7,10 @@
 
 **Thoughts:** I feel Codecademy maybe isn't the best tool to accelerate the learning process. I am considering to start my hour of practice with FCC and then switch a bit to Codecademy.
 
-**Link to work:** None for today as I didn't start a project at FCC, but tomorrow I'll do it :)
+**Link to work:** https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/
 
 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Practice while loops on Codecademy's Javascript course](https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/)
+
