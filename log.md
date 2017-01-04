@@ -3,11 +3,11 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt a bit of Javascript at Codecademy, mainly basic knowledge on the while do/while loops. Then I created a FCC account and honed it a little
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel Codecademy maybe isn't the best tool to accelerate the learning process. I am considering to start my hour of practice with FCC and then switch a bit to Codecademy.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** None for today as I didn't start a project at FCC, but tomorrow I'll do it :)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
