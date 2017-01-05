@@ -16,9 +16,21 @@
 
 **Link to work:** https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
 
+### Day 2: January 5th, 2017
+
+**Today's Progress**: I finished FCC HTML5 curriculum by honing my CatPhotoApp and by learning CSS basics such as styling RGB colors, margins, padding and boxes. It was quite fun. I will use these skills later on.
+
+**Thoughts:** I'm happy with my progress and I'll keep on track
+
+**Links to work:** https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
+https://github.com/Davidtar12/100-days-of-code/blob/master/CSS%20styling%20for%20boxes%2C%20margins%20and%20padding%20-%20Day%202
+https://github.com/Davidtar12/100-days-of-code/blob/master/Page%20with%20styled%20CSS%20RGB%20colors%20day%202
 
 
 **Link(s) to work**
 1. [Practice while loops on Codecademy's Javascript course](https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/)
 2. Jan 4th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
+3. Jan 5th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
+4. CSS styling for boxes, margins and padding - Day 2 https://github.com/Davidtar12/100-days-of-code/blob/master/CSS%20styling%20for%20boxes%2C%20margins%20and%20padding%20-%20Day%202
+5. Page with styled CSS RGB colors day 2 https://github.com/Davidtar12/100-days-of-code/blob/master/Page%20with%20styled%20CSS%20RGB%20colors%20day%202
 
