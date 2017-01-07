@@ -26,7 +26,7 @@
 https://github.com/Davidtar12/100-days-of-code/blob/master/CSS%20styling%20for%20boxes%2C%20margins%20and%20padding%20-%20Day%202
 https://github.com/Davidtar12/100-days-of-code/blob/master/Page%20with%20styled%20CSS%20RGB%20colors%20day%202
 
-### Day 2: January 6th, 2017
+### Day 3: January 6th, 2017
 
 **Today's Progress**: I felt today my practice on Bootstrap was productive and useful 
 
