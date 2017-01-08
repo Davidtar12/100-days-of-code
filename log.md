@@ -39,7 +39,7 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 
 **Today's Progress**: I finished the Bootstrap module and started the jQuery one.
 
-**Thoughts:** I was a bit tired because it's saturday and I coded after meeting some friends, but it was producitve and fun i the end. I just keep doing it and then I feel that I love it
+**Thoughts:** I was a bit tired because it's saturday and I coded after meeting some friends, but it was producitve and fun. I just keep doing it and then I feel that I love it
 
 **Link to work:**https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Playground%20Day%204
 
