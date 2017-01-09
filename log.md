@@ -43,6 +43,13 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 
 **Link to work:**https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Playground%20Day%204
 
+### Day 5: January 8th, 2017
+
+**Today's Progress**: I finished the jQuery module
+
+**Thoughts:** I liked the jQuery module, the last point (the "animated hinge" addClass feature) was quite funny
+
+**Link to work:**https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Playground%20Day%204
 
 **Link(s) to work**
 1. [Practice while loops on Codecademy's Javascript course](https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/)
@@ -52,4 +59,5 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 5. Page with styled CSS RGB colors day 2 https://github.com/Davidtar12/100-days-of-code/blob/master/Page%20with%20styled%20CSS%20RGB%20colors%20day%202
 6. Jan 6th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day%203
 7. Jan 7th Update on FCC curriculum's JQuery Playground https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Playground%20Day%204
+8. Jan 8th Update on FCC curriculum's JQuery Playground https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Playground%20Day%204
 
