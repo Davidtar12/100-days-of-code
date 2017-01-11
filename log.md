@@ -58,7 +58,7 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 **Thoughts:** I liked the experience, the best I could do to make it fun whiel challenging was chosing a topic of my own interest
 
 **Links to work:** https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d
-https://codepen.io/FreeCodeCamp/full/NNvBQW/
+https://codepen.io/Davidtar1/pen/VPeyRM
 
 ### Day 7: January 11th, 2017
 
