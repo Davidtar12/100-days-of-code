@@ -51,7 +51,7 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 
 **Link to work:** https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Day%205
 
-### Day 6: January 9th, 2017
+### Day 6: January 10th, 2017
 
 **Today's Progress**: I started building my tribute page to Henry David Thoreau based on the look from the Dr. Norman Borlaug's page built by Quincy Larson. I worked for two hours to replace the hour I didn't code yesterday
 
