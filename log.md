@@ -51,6 +51,14 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 
 **Link to work:** https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Day%205
 
+### Day 6: January 9th, 2017
+
+**Today's Progress**: I started building my tribute page to Henry David Thoreau based on the look from the Dr. Norman Borlaug's page built by Quincy Larson. I worked for two hours to replace the hour I didn't code yesterday
+
+**Thoughts:** I liked the experience, the best I could do to make it fun whiel challenging was chosing a topic of my own interest
+
+**Link to work:** https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d
+
 **Link(s) to work**
 1. [Practice while loops on Codecademy's Javascript course](https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/)
 2. Jan 4th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
@@ -60,4 +68,5 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 6. Jan 6th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day%203
 7. Jan 7th Update on FCC curriculum's JQuery Playground https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Playground%20Day%204
 8. Jan 8th Update on FCC curriculum's JQuery Playground https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Day%205
+9. January 10th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d
 
