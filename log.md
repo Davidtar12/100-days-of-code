@@ -60,6 +60,15 @@ https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day
 **Links to work:** https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d
 https://codepen.io/FreeCodeCamp/full/NNvBQW/
 
+### Day 7: January 11th, 2017
+
+**Today's Progress**: I finished building my tribute page to Henry David Thoreau based on the look from the Dr. Norman Borlaug's page built by Quincy Larson. I worked for one hour
+
+**Thoughts:** Building this page was enriching and it also helped me reminding how relevant Thoreau's writings are. I had lots of fun and time flew while doing it
+
+**Links to work:** https://gist.github.com/Davidtar12/d12115b07d34aae707b4c1da21951428
+https://codepen.io/Davidtar1/pen/VPeyRM
+
 **Link(s) to work**
 1. [Practice while loops on Codecademy's Javascript course](https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/)
 2. Jan 4th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
@@ -69,5 +78,6 @@ https://codepen.io/FreeCodeCamp/full/NNvBQW/
 6. Jan 6th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp%20-%20Day%203
 7. Jan 7th Update on FCC curriculum's JQuery Playground https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Playground%20Day%204
 8. Jan 8th Update on FCC curriculum's JQuery Playground https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Day%205
-9. January 10th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d and https://codepen.io/FreeCodeCamp/full/NNvBQW/
+9. January 10th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d and https://codepen.io/Davidtar1/pen/VPeyRM
+10. January 11th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/d12115b07d34aae707b4c1da21951428 and https://codepen.io/Davidtar1/pen/VPeyRM
 
