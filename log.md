@@ -69,6 +69,14 @@ https://codepen.io/Davidtar1/pen/VPeyRM
 **Links to work:** https://gist.github.com/Davidtar12/d12115b07d34aae707b4c1da21951428
 https://codepen.io/Davidtar1/pen/VPeyRM
 
+### Day 8: January 12th, 2017
+
+**Today's Progress**: I started building my portfolio page
+
+**Thoughts:** It was a bit challenging to start from scratch, but I kept trying, using Google and using the read, search, askRead-Search-Ask method and I got some progress. I hope to have much more success tomorrow
+
+**Link to work:** https://gist.github.com/Davidtar12/aaa4ed84b13929c615d630b496fce46e
+
 **Link(s) to work**
 1. [Practice while loops on Codecademy's Javascript course](https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/)
 2. Jan 4th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
@@ -80,4 +88,5 @@ https://codepen.io/Davidtar1/pen/VPeyRM
 8. Jan 8th Update on FCC curriculum's JQuery Playground https://github.com/Davidtar12/100-days-of-code/blob/master/jQuery%20Day%205
 9. January 10th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d and https://codepen.io/Davidtar1/pen/VPeyRM
 10. January 11th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/d12115b07d34aae707b4c1da21951428 and https://codepen.io/Davidtar1/pen/VPeyRM
+11. January 12 Update on portfolio page https://gist.github.com/Davidtar12/aaa4ed84b13929c615d630b496fce46e
 
