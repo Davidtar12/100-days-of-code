@@ -89,7 +89,7 @@ https://codepen.io/Davidtar1/pen/VPeyRM
 
 **Today's Progress**: I got some more progress on my portfolio page, then I got stuck and had to search some guide in Google and I asked about it in FCC chats
 
-**Thoughts:** I woudl like to be faster and more efficient building this site, but this is what it takes to learn coding, so I'll just keep working
+**Thoughts:** I would like to be faster and more efficient building this site, but this is what it takes to learn coding, so I'll just keep working
 
 **Link to work:** https://gist.github.com/Davidtar12/597a208ce7de56b9137cf31b8d98c144
 
