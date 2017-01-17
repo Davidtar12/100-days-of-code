@@ -77,6 +77,22 @@ https://codepen.io/Davidtar1/pen/VPeyRM
 
 **Link to work:** https://gist.github.com/Davidtar12/aaa4ed84b13929c615d630b496fce46e
 
+### Day 9: January 15th, 2017
+
+**Today's Progress**: I kept building my portfolio page, but I had to learn some concepts more so the progress was slow
+
+**Thoughts:** It can be annoying to not find the easy solution you expect, but once you keep thinking, searching and asking you're closer to the solution
+
+**Link to work:** https://gist.github.com/Davidtar12/597a208ce7de56b9137cf31b8d98c144
+
+### Day 9: January 16th, 2017
+
+**Today's Progress**: I got some more progress on my portfolio page, then I got stuck and had to search some guide in Google and I asked about it in FCC chats
+
+**Thoughts:** I woudl like to be faster and more efficient building this site, but this is what it takes to learn coding, so I'll just keep working
+
+**Link to work:** https://gist.github.com/Davidtar12/597a208ce7de56b9137cf31b8d98c144
+
 **Link(s) to work**
 1. [Practice while loops on Codecademy's Javascript course](https://journolearningcode.wordpress.com/2017/01/04/first-day-of-100daysofcode/)
 2. Jan 4th Update on FCC curriculum's CatPhotoApp https://github.com/Davidtar12/100-days-of-code/blob/master/CatPhotoApp
@@ -89,4 +105,5 @@ https://codepen.io/Davidtar1/pen/VPeyRM
 9. January 10th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/1eaedf00e4defcbaacbe19a95e31b26d and https://codepen.io/Davidtar1/pen/VPeyRM
 10. January 11th Update on FCC curriculum's tribute page, in my case for Henry David Thoreau https://gist.github.com/Davidtar12/d12115b07d34aae707b4c1da21951428 and https://codepen.io/Davidtar1/pen/VPeyRM
 11. January 12 Update on portfolio page https://gist.github.com/Davidtar12/aaa4ed84b13929c615d630b496fce46e
+12. January 16th Update on portfolio page https://gist.github.com/Davidtar12/597a208ce7de56b9137cf31b8d98c144
 
